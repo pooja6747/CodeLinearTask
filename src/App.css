@@ -1,0 +1,53 @@
+/* Import Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Neue+Machina:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Graphik:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+
+/* Example of applying fonts */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.header {
+  font-family: 'Almarai', sans-serif;
+}
+
+.menu {
+  font-family: 'Sora', sans-serif;
+}
+
+.special-text {
+  font-family: 'Neue Machina', sans-serif;
+}
+
+.mono-text {
+  font-family: 'Chivo Mono', monospace;
+}
+
+.graphik-text {
+  font-family: 'Graphik', sans-serif;
+}
+
+.poppins-text {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* for home page */
+.box {
+  height: 598px;
+  background-color: #f2ebeb !important;
+}
+
+/* for about page */
+.about-section {
+  /* width: 1440px;
+  height: 1272px; */
+  gap: 0px;
+  opacity: 0px;
+  background-color: black;
+}
